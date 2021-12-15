@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hendersonandrade
-- 👀 I’m interested in cloud administration, microsoft 365 and devops...
+- 👀 I’m interested in azure, microsoft 365 and devops...
 - 🌱 I’m currently learning terraform, azure, aws, gcp, git and python
-- 💞️ I’m looking to collaborate on powershell scripts and python
+- 💞️ I’m looking to collaborate on powershell scripts
 - 📫 How to reach me: henderson.andrade@outlook.com
 
 <!---
