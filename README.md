@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning terraform, azure, aws, git, infra as code and policy as code...
 - 💞️ I’m looking to collaborate on powershell scripts, arm templates, terraform, pipelines and bicep...
 - 👀 You can found other personal projects in my Azure DevOps profile: https://dev.azure.com/hendersonandrade/
-- 📫 How to reach me: henderson.andrade@outlook.com (mail and MS Teams)
+- 📫 How to reach me: hendersonandrade@outlook.com.br (mail and MS Teams)
 
 <!---
 hendersonandrade/hendersonandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
